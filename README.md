@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabeno
 - 👀 I’m interested in solving challenges by building things.
 - 🌱 I’m currently learning Golang and some AI/ML
-- 💞️ I’m looking to collaborate on anything that might push me out of my comfort zone.
+- 💞️ I’m looking to collaborate on projects that will push me out of my comfort zone.
 - 📫 How to reach me email(gmajivu at gmail dot com)
 
 <!---
